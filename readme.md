@@ -7,7 +7,7 @@
 ___
 2. **Install all Dependencies:**: 
     ```
-    npm test
+    npm install
     ``` 
     
 ___
